@@ -1,0 +1,8 @@
+node_modules/
+.env
+.DS_Store
+rayeva.db
+rayeva.db-shm
+rayeva.db-wal
+npm-debug.log
+.npm/
