@@ -263,4 +263,4 @@ curl -X POST http://localhost:3000/api/whatsapp/test \
 
 ---
 
-*Built for Rayeva AI Systems Assignment — Akshit, DTU*
+*Built for Rayeva AI Systems Assignment*
